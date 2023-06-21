@@ -1,0 +1,26 @@
+{
+  "name": "kyle_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "y",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  "dev":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmdnz/kyle_express.git"
+  },
+  "author": "hammadnz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmdnz/kyle_express/issues"
+  },
+  "homepage": "https://github.com/hmdnz/kyle_express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
